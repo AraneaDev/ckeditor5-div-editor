@@ -1,0 +1,19 @@
+{
+  "name": "ckeditor5-div-editor",
+  "version": "1.0.0",
+  "files": [
+    "src",
+    "theme"
+  ],
+  "author": "AraneaDev",
+  "license": "MIT",
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^11.0.0",
+    "@ckeditor/ckeditor5-engine": "^10.2.0",
+    "@ckeditor/ckeditor5-ui": "^11.0.0"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-editor-classic": "^10.0.0",
+    "@ckeditor/ckeditor5-utils": "^10.0.0"
+  }
+}
